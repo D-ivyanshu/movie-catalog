@@ -1,5 +1,6 @@
-# Take-A-Break
-Take-a-Break  is a web app that fetches movie data from (The Movie Database) tmbd api and generates a user-friendly catalog
+# Take-A-Break 
+Take-a-Break is a web app built using Js, Node Js, Express Js, TMDb(The Movie Database) API and IFrame player API that allows searching of 10000+ movies and webseries and provides information about their plot, Genre, and Year in which it is released, along with high-quality trailer and other clips of movie fetched from youtube.
+
 ## Features
 
 - Live previews
